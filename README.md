@@ -1,3 +1,3 @@
-## The `DIVS` model
+## Overview
 
-tbd
+The `DIVS` model ...
