@@ -13,6 +13,6 @@ These are some of the guiding principles that that `DIVS` model follows:
 
 ## FAQ
 
-**Why is it called `DIVS`?**
+**What's with the name?**
 
 While it means `Design`, `Iterate`, `Validate`, and `Ship`, it is also a play-on-word to the `div` html element which is usually used for grouping or organizing.
