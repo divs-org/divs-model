@@ -11,6 +11,12 @@ These are some of the guiding principles that that `DIVS` model follows:
 * Releases should be smaller, incremental, and frequent.
 * Weekly, monthly, and quarterly checkpoints are important for alignment.
 
+## The model
+
+**Design**
+
+Design is essential. The output of this stage is a design document (DD). It is optional for bug fixes, unless it changes the original design significantly then it should contain both the details of the issue and the design of the proposed solution.
+
 ## FAQ
 
 **What's with the name?**
