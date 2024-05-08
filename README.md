@@ -1,1 +1,3 @@
-# divs-model
+## The `DIVS` model
+
+tbd
