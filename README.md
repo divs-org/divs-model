@@ -19,7 +19,7 @@ The DIVS model centers around SODs, the four DIVS stages, views, and checkpoints
 
 ### SODs
 
-An SOD (shorthand for "**So**ftware **D**eliverable") is a software artifact that a team will implement and deliver using the DIVS model. There is no provision on how high-level or specific an SOD is other than in the DIVS model, a single DD (see below) is tied to a single SOD.
+An SOD (shorthand for "**So**ftware **D**eliverable") is a software artifact that a team will implement and deliver using the DIVS model. There is no provision on how high-level or specific an SOD is other than in the DIVS model, a single DD (see **Design** section below) is tied to a single SOD.
 
 SODs are the main artifacts that will go through the four DIVS stages, be it on a single cycle, or multiple cycles.
 
