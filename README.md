@@ -15,7 +15,11 @@ These are the principles that the DIVS model follows:
 
 ## The model
 
-The DIVS model centers around the four DIVS stages, views, checkpoints, and initiatives.
+The DIVS model centers around initiatives, the four DIVS stages, views, and checkpoints.
+
+### Initiatives
+
+TBD.
 
 ### The DIVS stages
 
