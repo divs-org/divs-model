@@ -39,7 +39,7 @@ While it is expected for a full DIVS cycle to start with **Design** and ends wit
 
 Views are visual representations of the state of software development in relation to the DIVS model. The DIVS model requires only two (2) views: the **Timeline**, and the **DIVS** view.
 
-**Timeline view** - The Timeline view is a monthly, quarterly, and yearly view of the development progress against the planned schedule. It mainly consists of SODs, with up-to-date progress against schedule. This view is aimed for both engineering and non-engineering audiences.
+**Timeline view** - The Timeline view is a monthly, quarterly, and yearly view of the development progress against the planned schedule. It contains a list of SODs with their associated schedules and priorities, and up-to-date progress against those schedules. This view is aimed for both engineering and non-engineering audiences.
 
 **DIVS view** - The DIVS view is the view of the progression of SODs, and its optional sub-items, in relation to the DIVS model. This view is intended for engineering.
 
