@@ -4,7 +4,7 @@ The **DIVS** model is a lightweight agile process methodology designed for start
 
 ## Principles
 
-These are the principles that the `DIVS` model follows:
+These are the principles that the DIVS model follows:
 
 * The process should "feel" lightweight.
 * The core part of the process should be generic enough to be tweaked within a team.
