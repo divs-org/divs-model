@@ -17,11 +17,11 @@ These are the principles that the DIVS model follows:
 
 The DIVS model centers around SODs, the four DIVS stages, views, and checkpoints.
 
-### SOD
+### SODs
 
-A SOD (shorthand for "**So**ftware **D**eliverable") is a software deliverable that a team will implement using the DIVS model.
+An SOD (shorthand for "**So**ftware **D**eliverable") is a software deliverable that a team will implement using the DIVS model. There is no provision on how high-level or specific an SOD is. The only indication of its level is that in the DIVS model, a single DD (see below) is tied to a single SOD.
 
-### The DIVS stages
+### The four stages
 
 **Design** - This is the first stage of DIVS. The expected output is a design document (or **DD**). DIVS doesn't provide a specific format, although Alphaus uses [this](https://github.com/alphauslabs/dd-fmt) format.
 
