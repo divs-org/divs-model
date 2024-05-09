@@ -47,6 +47,14 @@ Views are visual representations of the state of software development in relatio
 
 Checkpoints are recurring meetings that the team needs to do to ensure alignment across relevant groups. The DIVS model recommends four (4) checkpoints: weekly, monthly, quarterly, and prioritization.
 
+**Weekly checkpoint** - Weekly checkpoints are intended to keep track of the development progress on a weekly basis.
+
+**Monthly checkpoint** - Monthly checkpoints are intended to ensure alignment between relevant groups on a monthly basis.
+
+**Quarterly checkpoint** - Quarterly checkpoints are intended to ensure alignment between relevant groups on a quarterly basis.
+
+**Prioritization** - Prioritization checkpoints are intended to keep the Timeline view up-to-date and prioritized.
+
 ## FAQ
 
 **What's with the name?**
