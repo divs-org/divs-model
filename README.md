@@ -19,7 +19,7 @@ The DIVS model centers around the four DIVS stages, views, checkpoints, and init
 
 ### The DIVS stages
 
-**Design** - This is the first stage of DIVS. The expected output of this stage is a design document (or **DD**). DIVS doesn't provide any format. It is optional for bug fixes, unless it changes the original design significantly, then it should contain both the details of the issue and the design of the proposed solution.
+**Design** - This is the first stage of DIVS. The expected output of this stage is a design document (or **DD**). DIVS doesn't provide any format.
 
 **Iterate** - The implementation iterations of the DD. The expected output is a version of the working code.
 
