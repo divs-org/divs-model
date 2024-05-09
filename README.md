@@ -25,7 +25,7 @@ The DIVS model centers around the four DIVS stages, views, checkpoints, and init
 
 **Validate** - This stage validates the output version of the previous stage against the DD. This stage provides feedback to the code version being validated.
 
-**Ship** - Ensure production readiness. This covers testing, security, scaling, observability, etc. Output is the updated `DD`, production version and documentation.
+**Ship** - Ensure production readiness of the working code. The expected output is the updated DD, production version, and documentation.
 
 ### Views
 
