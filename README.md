@@ -13,6 +13,8 @@ These are the principles that the `DIVS` model follows:
 
 ## The model
 
+The `DIVS` model centers around the concept of the **Design**, **Iterate**, **Validate**, and **Ship** workflow, 
+
 ### Design
 
 Design is essential. The output of this stage is a design document (`DD`). It is optional for bug fixes, unless it changes the original design significantly then it should contain both the details of the issue and the design of the proposed solution.
