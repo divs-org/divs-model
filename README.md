@@ -53,7 +53,7 @@ Checkpoints are recurring meetings that the team needs to do to ensure alignment
 
 **Quarterly checkpoint** - Quarterly checkpoints are intended to ensure alignment between relevant groups on a quarterly basis.
 
-**Prioritization** - Prioritization checkpoints are intended to keep the Timeline view up-to-date and prioritized.
+**Prioritization** - Prioritization checkpoints are intended to keep the **Timeline view** up-to-date and prioritized.
 
 ## FAQ
 
