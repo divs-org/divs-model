@@ -25,13 +25,13 @@ SODs are the main artifacts that will go through the four DIVS stages, be it on 
 
 ### The four stages
 
-**Design** - This is the first stage of the DIVS model. The expected output is a design document (or **DD**). A DD must be tied to an SOD. DIVS doesn't provide a specific format, although Alphaus uses [this](https://github.com/alphauslabs/dd-fmt) format.
+**Design** - This is the first stage of a DIVS cycle. The expected output is a design document (or **DD**). A DD must be tied to an SOD. DIVS doesn't provide a specific format, although Alphaus uses [this](https://github.com/alphauslabs/dd-fmt) format.
 
 **Iterate** - The implementation iterations of the DD. The expected output is a version of the working code.
 
 **Validate** - This stage validates the output version of the previous stage against the DD. This stage provides feedback to the code version being validated.
 
-**Ship** - This stage ensures production readiness of the validated code. The expected output is the updated DD, the production version, and documentation.
+**Ship** - This is the stage where the validated code is released to production. The expected output is the optionally updated DD, the production version, and documentation.
 
 While it is expected for a full DIVS cycle to start with **Design** and ends with **Ship**, the DIVS model doesn't enforce a linear sequence of all stages. For example, it is valid to do multiple iterations of **Iterate** and **Validate** before doing a single **Ship**, or multiple iterations of **Iterate**, **Validate**, and **Ship** under a single **Design** stage.
 
