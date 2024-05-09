@@ -19,7 +19,7 @@ The DIVS model centers around initiatives, the four DIVS stages, views, and chec
 
 ### Initiatives
 
-TBD.
+An initiative is a the only unititems that a team will implement using the DIVS model. 
 
 ### The DIVS stages
 
