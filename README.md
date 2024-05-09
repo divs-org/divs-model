@@ -15,11 +15,11 @@ These are the principles that the DIVS model follows:
 
 ## The model
 
-The DIVS model centers around SDs, the four DIVS stages, views, and checkpoints.
+The DIVS model centers around SODs, the four DIVS stages, views, and checkpoints.
 
-### SD
+### SOD
 
-An SD (a shorthand for "Software Deliverable") is a software deliverable that a team will implement using the DIVS model.
+A SOD (shorthand for "**So**ftware **D**eliverable") is a software deliverable that a team will implement using the DIVS model.
 
 ### The DIVS stages
 
