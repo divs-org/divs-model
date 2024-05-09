@@ -31,7 +31,7 @@ While it is expected for a full DIVS cycle to start with **Design** and ends wit
 
 ### Views
 
-TBD.
+Views are visual representations of the state of software development in relation to the DIVS model.
 
 ### Checkpoints
 
