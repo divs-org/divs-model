@@ -45,4 +45,6 @@ TBD.
 
 **What's with the name?**
 
-While it means `Design`, `Iterate`, `Validate`, and `Ship`, it is also a play-on-word to the `div` html element which is usually used for grouping or organizing.
+If you're referring to "DIVS": while it means **D**esign, **I**terate, **V**alidate, and **S**hip, it is also a play-on-word to the `div` HTML element which is usually used for grouping or organizing.
+
+If you're referring to "SOD": it's a shorthand for "**So**ftware **D**eliverable". It's easier to say "sod" than "deliverable", or "software deliverable". It is also inspired by `git`.
