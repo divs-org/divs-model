@@ -4,7 +4,7 @@ The `DIVS` model is a simple agile process model designed for startups with smal
 
 ## Principles
 
-These are some of the guiding principles that that `DIVS` model follows:
+These are the principles that the `DIVS` model follows:
 
 * The process should "feel" lightweight.
 * The process should be generic enough to be tailored or tweaked within a team.
