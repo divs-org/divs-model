@@ -1,6 +1,6 @@
 ## Overview
 
-The **DIVS** model is a lightweight agile process methodology designed for startups with smaller teams. It centers around the "**Design**, **Iterate**, **Validate**, and **Ship**" stages of doing software development. This is the process model used in [Alphaus](https://www.linkedin.com/company/alphaus/), a Tokyo-based startup.
+The **DIVS** model is a lightweight agile process methodology designed for startups with smaller teams. It centers around the "**Design**, **Iterate**, **Validate**, and **Ship**" stages of doing software development. This is the methodology used in [Alphaus](https://www.linkedin.com/company/alphaus/), a Tokyo-based startup.
 
 ## Principles
 
