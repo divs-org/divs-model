@@ -7,7 +7,7 @@ The **DIVS** model is a lightweight agile process designed for startups with sma
 These are the guidelines that the DIVS model follows:
 
 * The process should "feel" lightweight.
-* The core part of the process should be generic enough to be tweaked within a team.
+* The process should be generic enough to be tweaked within a team.
 * Releases should be smaller, incremental, and frequent.
 * Weekly, monthly, and quarterly checkpoints are important for alignment.
 * The process doesn't enforce any style of communication.
