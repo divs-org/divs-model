@@ -19,7 +19,7 @@ The DIVS model centers around SODs, the four DIVS stages, views, and checkpoints
 
 ### SODs
 
-An SOD (shorthand for "**So**ftware **D**eliverable") is a software artifact that a team will implement and deliver using the DIVS model. There is no provision on how high-level or specific an SOD is other than in the DIVS model, a single DD (see **Design** section below) is tied to a single SOD.
+An SOD (shorthand for "**So**ftware **D**eliverable") is a software artifact that a team will implement and deliver using the DIVS model. There is no provision on how high-level or specific an SOD is other than in the DIVS model, a single DD (see **Design** section below) is tied to a single SOD. SODs could be initiatives, projects, features, subsystems, etc.
 
 SODs are the main artifacts that will go through the four DIVS stages, be it on a single cycle, or multiple cycles.
 
@@ -37,7 +37,11 @@ While it is expected for a full DIVS cycle to start with **Design** and ends wit
 
 ### Views
 
-Views are visual representations of the state of software development in relation to the DIVS model.
+Views are visual representations of the state of software development in relation to the DIVS model. The DIVS model requires only two (2) views: the **Timeline**, and the **DIVS** view.
+
+**Timeline view** - The Timeline view is a monthly, quarterly, and yearly view of the development progress against the planned schedule. It mainly consists of SODs, with up-to-date progress against schedule. This view is aimed for both engineering and non-engineering audiences.
+
+**DIVS view** - The DIVS view is the view of the progression of SODs, and its optional sub-items, in relation to the DIVS model. This view is intended for engineering.
 
 ### Checkpoints
 
