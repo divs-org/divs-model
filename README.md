@@ -19,7 +19,7 @@ The DIVS model centers around SDs, the four DIVS stages, views, and checkpoints.
 
 ### SD
 
-An initiative is a the only unititems that a team will implement using the DIVS model. 
+An SD (a shorthand for "Software Deliverable") is a software deliverable that a team will implement using the DIVS model.
 
 ### The DIVS stages
 
