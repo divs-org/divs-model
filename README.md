@@ -45,7 +45,7 @@ Views are visual representations of the state of software development in relatio
 
 ### Checkpoints
 
-TBD.
+Checkpoints are recurring meetings that the team needs to do to ensure alignment across relevant groups. The DIVS model recommends four (4) checkpoints: weekly, monthly, quarterly, and prioritization.
 
 ## FAQ
 
