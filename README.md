@@ -15,23 +15,33 @@ These are the principles that the DIVS model follows:
 
 ## The model
 
-The DIVS model centers around the concept of the **Design**, **Iterate**, **Validate**, and **Ship** workflow, views, and checkpoints.
+The DIVS model centers around the DIVS stages, views, and checkpoints.
 
-### Design
+### The DIVS stages
+
+**Design**
 
 Design is essential. The output of this stage is a design document (`DD`). It is optional for bug fixes, unless it changes the original design significantly then it should contain both the details of the issue and the design of the proposed solution.
 
-### Iterate
+**Iterate**
 
 The implementation attempt(s) of the design. Output is `v0+` of the working code.
 
-### Validate
+**Validate**
 
 Validate `v0+` against the `DD` and subsequent feedback. Update `DD` if needed. Output is `v1+` (v1+ could be the same as `v0+`) working code, and an updated `DD` (optional).
 
-### Ship
+**Ship**
 
 Ensure production readiness. This covers testing, security, scaling, observability, etc. Output is the updated `DD`, production version and documentation.
+
+### Views
+
+TBD.
+
+### Checkpoints
+
+TBD.
 
 ## FAQ
 
