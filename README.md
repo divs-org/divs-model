@@ -27,7 +27,7 @@ The DIVS model centers around the four DIVS stages, views, checkpoints, and init
 
 **Ship** - Ensure production readiness of the working code. The expected output is the updated DD, production version, and documentation.
 
-While it is expected for a full DIVS cycle to start with **Design** and ends with **Ship**, the DIVS model doesn't enforce a linear sequence of all stages. For example, it is valid to do multiple iterations of **Iterate**, and **Validate** before doing a single **Ship**, or multiple iterations of **Iterate**, **Validate**, and **Ship** under a single **Design** stage.
+While it is expected for a full DIVS cycle to start with **Design** and ends with **Ship**, the DIVS model doesn't enforce a linear sequence of all stages. For example, it is valid to do multiple iterations of **Iterate** and **Validate** before doing a single **Ship**, or multiple iterations of **Iterate**, **Validate**, and **Ship** under a single **Design** stage.
 
 ### Views
 
