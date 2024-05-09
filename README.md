@@ -19,7 +19,7 @@ The DIVS model centers around the four DIVS stages, views, checkpoints, and init
 
 ### The DIVS stages
 
-**Design** - This is the first stage of DIVS. The expected output is a design document (or **DD**). DIVS doesn't provide a specific format.
+**Design** - This is the first stage of DIVS. The expected output is a design document (or **DD**). DIVS doesn't provide a specific format, although Alphaus uses [this](https://github.com/alphauslabs/dd-fmt) format.
 
 **Iterate** - The implementation iterations of the DD. The expected output is a version of the working code.
 
