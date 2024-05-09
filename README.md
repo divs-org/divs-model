@@ -25,7 +25,7 @@ SODs are the main artifacts that will go through the four DIVS stages, be it on 
 
 ### The four stages
 
-**Design** - This is the first stage of DIVS. The expected output is a design document (or **DD**). DIVS doesn't provide a specific format, although Alphaus uses [this](https://github.com/alphauslabs/dd-fmt) format.
+**Design** - This is the first stage of the DIVS model. The expected output is a design document (or **DD**). A DD must be tied to an SOD. DIVS doesn't provide a specific format, although Alphaus uses [this](https://github.com/alphauslabs/dd-fmt) format.
 
 **Iterate** - The implementation iterations of the DD. The expected output is a version of the working code.
 
