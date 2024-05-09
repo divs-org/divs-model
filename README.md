@@ -19,21 +19,13 @@ The DIVS model centers around the four DIVS stages, views, checkpoints, and init
 
 ### The DIVS stages
 
-**Design**
+**Design** - This is the first stage of DIVS. The output of this stage is a design document (or **DD**). DIVS doesn't provide any format. It is optional for bug fixes, unless it changes the original design significantly, then it should contain both the details of the issue and the design of the proposed solution.
 
-This is the first stage of DIVS. The output of this stage is a design document (or **DD**). DIVS doesn't provide any format. It is optional for bug fixes, unless it changes the original design significantly, then it should contain both the details of the issue and the design of the proposed solution.
+**Iterate** - The implementation iterations of the DD. The output is a version of the working code.
 
-**Iterate**
+**Validate** - This stage validates the output version of the previous stage against the DD. This stage provides feedback to the code version being validated.
 
-The implementation attempt(s) of the design. Output is `v0+` of the working code.
-
-**Validate**
-
-Validate `v0+` against the `DD` and subsequent feedback. Update `DD` if needed. Output is `v1+` (v1+ could be the same as `v0+`) working code, and an updated `DD` (optional).
-
-**Ship**
-
-Ensure production readiness. This covers testing, security, scaling, observability, etc. Output is the updated `DD`, production version and documentation.
+**Ship** - Ensure production readiness. This covers testing, security, scaling, observability, etc. Output is the updated `DD`, production version and documentation.
 
 ### Views
 
