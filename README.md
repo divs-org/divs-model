@@ -7,7 +7,7 @@ The **DIVS** model is a simple agile process methodology designed for startups w
 These are the principles that the `DIVS` model follows:
 
 * The process should "feel" lightweight.
-* The process should be generic enough to be tailored or tweaked within a team.
+* The process should be generic enough to be tweaked within a team.
 * Releases should be smaller, incremental, and frequent.
 * Weekly, monthly, and quarterly checkpoints are important for alignment.
 
