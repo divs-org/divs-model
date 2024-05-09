@@ -41,7 +41,7 @@ Views are visual representations of the state of software development in relatio
 
 **Timeline view** - The Timeline view is the view of the development progress against the planned schedule. It contains a list of SODs with their associated schedules and priorities, and its up-to-date progress against those schedules. This view is aimed for both engineering and non-engineering audiences. The Timeline view should be able to display the current and historical state of software development on a monthly, quarterly, and a yearly basis.
 
-**DIVS view** - The DIVS view is the view of the progression of SODs, and its optional sub-items, in relation to the DIVS model. This view is intended for engineering.
+**DIVS view** - The DIVS view is the view of the progression of SODs, and its optional sub-items, in relation to the four stages. This view is intended for engineering.
 
 ### Checkpoints
 
